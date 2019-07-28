@@ -1,0 +1,18 @@
+' Gambas module file
+
+Public Sub Main()
+
+  Dim i As Integer
+  
+  For i = 1 To 100
+    If i Mod 3 = 0 And i Mod 5 = 0 Then
+      Print "FizzBuzz"
+    Else If i Mod 3 = 0 Then
+      Print "Fizz"
+    Else If i Mod 5 = 0 Then
+      Print "Buzz"
+    Else
+      Print i  
+    Endif
+  Next
+End
