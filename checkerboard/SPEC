@@ -1,0 +1,25 @@
+SPEC
+
+Write a program that prints the following checkerboard pattern to standard
+output:
+
+* * * * * * * * 
+ * * * * * * * * 
+* * * * * * * * 
+ * * * * * * * * 
+* * * * * * * * 
+ * * * * * * * * 
+* * * * * * * * 
+ * * * * * * * * 
+
+The program must use only three output statements, printing one of each of
+the following strings:
+1. "* "
+2. " "
+3. "\n"
+
+NOTES
+
+This is excercise 3.40 from C How to Program by Deitel & Deitel. I made a
+slight modification to the text to not assume C as the implementation
+language (the original text mentions printf).

@@ -1,0 +1,4 @@
+I guess this is more or less the "correct" implementation of this program.
+It would possibly be more elegant to use two for loops, for rows and
+columns, but IIRC, the reader would not have learned for loops at this
+stage in Deitel & Deitel's book.
