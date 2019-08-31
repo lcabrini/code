@@ -1,0 +1,2 @@
+This is a wasteful implementation of the and specification, since it
+uses up much more memory (2 chars instead of just 1).
