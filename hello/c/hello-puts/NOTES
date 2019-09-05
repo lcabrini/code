@@ -1,0 +1,2 @@
+This version uses puts instead of printf to print to standard output. 
+Since there is no string formatting involved, I prefer this version.
