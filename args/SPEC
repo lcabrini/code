@@ -1,0 +1,5 @@
+The program should first print "Number of command-line arguments:" followed by the number of arguments passed in to the program. If the program did not receive any arguments, there should be no further output.
+
+However, if the program got one or more arguments, each argument should be printed on a line, preceded by an index number. This index number should start at 1.
+
+The program should then end successfully.
