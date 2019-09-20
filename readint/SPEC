@@ -1,0 +1,11 @@
+Implement a function that reads in an integer from the user and returns 
+it. 
+
+The function should take one argument which is the prompt to display.
+
+If the user input is not valid, that is, the input is not an integer, then
+display an error message and ask the user again. The function should keep 
+asking the user for an integer until a valid one has been entered.
+
+Demonstrate use of the function by asking the user to enter an integer and
+then echoing it to the terminal.
