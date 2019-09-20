@@ -1,0 +1,6 @@
+Implement a function that calculates the area of a triangle, given the
+length of the base and the height.
+
+Demonstrate the use of the function by asking the user to enter the length
+of the base and the height of a triangle, call the function and then 
+print the result.
